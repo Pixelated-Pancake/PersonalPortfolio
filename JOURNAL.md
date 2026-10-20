@@ -4,3 +4,4 @@
 
 - Created the github repo!!
 - Time to start working on this :p
+- Linked my GitHub (First Project that I could link it cuz my github was acting kinda skibidi)
