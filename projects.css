@@ -2,8 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
 
 h2 {
+    
     color: #fefae0;
     font-family: 'google sans';
+
 }
 
 body {
@@ -14,10 +16,21 @@ body {
     background-attachment: fixed;
     font-family: 'courier prime';
     color: #f4f1de;
+
 }
 
-.footercontent {
+.headercontent {
+
     display: flex;
     align-items: center;
     justify-content:center;
+    
+}
+
+.footercontent {
+
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
 }

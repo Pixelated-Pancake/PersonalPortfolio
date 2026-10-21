@@ -41,3 +41,7 @@ header {
     max-width: 480px;
     border-radius: 10px;
 }
+
+h2 {
+    margin-left: 700px;
+}

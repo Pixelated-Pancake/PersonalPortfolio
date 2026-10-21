@@ -19,10 +19,19 @@ body {
 
 }
 
-.footercontent {
+.headercontent {
 
     display: flex;
     align-items: center;
     justify-content:center;
     
 }
+
+.footercontent {
+
+    display: flex;
+    align-items: center;
+    justify-content:center;
+
+}
+
