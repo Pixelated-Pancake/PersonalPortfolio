@@ -14,5 +14,10 @@ body {
     background-attachment: fixed;
     font-family: 'courier prime';
     color: #f4f1de;
+}
 
+.footercontent {
+    display: flex;
+    align-items: center;
+    justify-content:center;
 }
