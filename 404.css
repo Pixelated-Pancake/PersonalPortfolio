@@ -1,8 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+
 body {
 
-    background-image: url("Error404.png");
+    background-image: url("photos/BackgroundPage.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    color: #fefae0;
+    font-family: 'google sans';
+    margin-left: 40px;
 
+}
+
+h1 {
+    font-size: 100px;
+}
+
+h3 {
+    font-size: 50px;
 }
