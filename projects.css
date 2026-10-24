@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Lexend:wght@100..900&family=Oswald:wght@200..700&display=swap');
 
-h2 {
+h1 {
     
     color: #fefae0;
     font-family: 'google sans';
+    text-align: center;
 
 }
 
@@ -16,6 +16,8 @@ body {
     background-attachment: fixed;
     font-family: 'courier prime';
     color: #f4f1de;
+    height: 100vh;
+    margin: none;
 
 }
 
@@ -26,6 +28,12 @@ body {
     justify-content:center;
     margin-top: 16px;
     
+}
+
+.projects {
+    font-family: 'lexend';
+    font-size: 20px;
+    margin-bottom: 340px;
 }
 
 .footercontent {
