@@ -3,7 +3,7 @@
 
 ## I. Basic Info
 
-- This is a Peronal Portfolio website that I made to display on my socials, it's a website that showcases stuff about me and what I did.
+- This is a Peronal Portfolio website that I made to display on my socials, it's a website that showcases stuff about me and what I did. I also added an Error 404 page (try changing the link from https://muminspersonalportfolio.vercel.app/index.html to some gibberish like https://muminspersonalportfolio.vercel.app/reujkdvfds.html)
 
 
 ## II. Tech Stack
